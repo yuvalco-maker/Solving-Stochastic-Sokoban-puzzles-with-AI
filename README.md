@@ -1,5 +1,5 @@
 Finally got around to uploading this!
-This is an AI agent that can solve Socratic Sokoban puzzles using a heuristic.
+This is an AI agent that can solve stochastic Sokoban puzzles using a heuristic.
 
 What’s the heuristic, you may wonder?
 First, we use an AI agent (also created by yours truly) to solve a deterministic version of the puzzle.
